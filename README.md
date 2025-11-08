@@ -1,6 +1,6 @@
-# Project Echo
+# EchoTwin
 
-Welcome to **Project Echo**, an open-source, real-time digital twin in NVIDIA Omniverse. This project aims to create a simulated environment created via LiDAR.
+Welcome to **Echo Twin**, an open-source, real-time digital twin in NVIDIA Omniverse. This project aims to create a simulated environment created via LiDAR.
 
 
 ## Prerequisites
@@ -21,7 +21,7 @@ This project is fully containerized, making setup quick and reproducible.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/9LogM/project-echo.git
-    cd project-echo
+    cd EchoTwin
     ```
 
 2. **Configure the Node:**  
